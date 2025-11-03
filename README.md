@@ -1,9 +1,8 @@
-# 👋 Hey there folks, I am Moji  
+# Moji
 
-**17 y/o Indie Game Dev | Student | India**  
+**I like making cool stuff **  
 
-I create games with modular code, experiment with cool mechanics, and have strong visual flair  
-
+Taking an initiative of solving that one bug but now eyes hurt. Asking chatgpt for solution at 2 AM, then finally solving it, realising that one bug got solved, but now there are more new bugs.
 ---
 
 ## 🛠 Languages & Experience
@@ -17,4 +16,4 @@ I create games with modular code, experiment with cool mechanics, and have stron
 
 ---
 
-> “Always curious, constantly learning, sometimes debugging till i cry”
+> “If people say that you are not cool enough, take some ice and smear it all over your face”
