@@ -1,6 +1,6 @@
 # Moji
 
-I like making cool stuff
+#I like making cool stuff
 
 Taking an initiative of solving that one bug but now eyes hurt. Asking chatgpt for solution at 2 AM, then finally solving it, realising that one bug got solved, but now there are more new bugs.
 ---
