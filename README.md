@@ -9,7 +9,7 @@ Also the guy named MojiDev... if you're seeing this, fricking give back my authe
 
 ## 🛠 Languages & Experience
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojeedev&layout=compact&theme=tokyonight&exclude_repo=core-platform-repo1,core-platform-repo2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojeedev&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
