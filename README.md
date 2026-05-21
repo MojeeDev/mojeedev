@@ -8,7 +8,10 @@ Also the guy named MojiDev... if you're seeing this, fricking give back my authe
 ---
 
 ## 🛠 Languages & Experience
-
+- Making games in **Unity**
+- Programming gameplay systems in **C#**
+- Experimenting with **physics, shaders, procedural systems**
+- Building weird ideas into playable games
 
 ---
 
