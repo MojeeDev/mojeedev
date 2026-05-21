@@ -9,7 +9,6 @@ Also the guy named MojiDev... if you're seeing this, fricking give back my authe
 
 ## 🛠 Languages & Experience
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
